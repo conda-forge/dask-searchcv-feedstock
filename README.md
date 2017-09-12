@@ -14,9 +14,7 @@ Summary: Tools for doing hyperparameter search with Scikit-Learn and Dask
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/dask-searchcv-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/dask-searchcv-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/dask-searchcv-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/dask-searchcv-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/dask-searchcv-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/dask-searchcv-feedstock/branch/master)
+All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/dask-searchcv-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/dask-searchcv-feedstock)
 
 Current release info
 ====================
